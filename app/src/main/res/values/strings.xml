@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Make a Choice</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="first">Жанр фільма</string>
+    <string name="second">Жанр музики</string>
+    <string name="third">Країна для подорожі</string>
+    <string name="button_return">Повернутися</string>
+    <string name="button_makeChoice">MAKE A CHOICE</string>
+
+    <string name="hello_first_fragment">Категорії</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
